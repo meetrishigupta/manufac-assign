@@ -24,6 +24,3 @@ yarn test
 yarn build
 ```
 
-<h2>💖Like my work?</h2>
-
-Hire me: https://drive.google.com/file/d/1QekkyrgiOnfcSqq\_p9wuIhsSGul2xqMy/view?usp=sharing
